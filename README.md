@@ -1,10 +1,9 @@
 # Hi I'm Mervin 👋
 I'm based in Spokane Washington.
 
-## Skills
+## Skills 😎
 * Product Design
 * Web Design
-* 
 
 ## Languages
 * HTML
@@ -25,3 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Carlton Dance](https://media.giphy.com/media/y8mThMjGBrQpG/giphy.gif)
