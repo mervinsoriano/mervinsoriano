@@ -1,12 +1,12 @@
-# Mervin Soriano
+# Hi I'm Mervin 👋
+I'm based in Spokane Washington.
 
-### Hi there 👋
-I'm Mervin, a product designer based out of Spokane, WA.
-
-> This is my quote
+<!--> This is my quote-->
 
 ## Skills
+* Product Design
 * Web Design
+* 
 
 ## Languages
 * HTML
