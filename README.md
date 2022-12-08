@@ -1,8 +1,6 @@
 # Hi I'm Mervin 👋
 I'm based in Spokane Washington.
 
-<!--> This is my quote-->
-
 ## Skills
 * Product Design
 * Web Design
